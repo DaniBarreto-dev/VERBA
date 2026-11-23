@@ -1,0 +1,2 @@
+import { ChartNoAxesColumnIncreasing } from 'lucide-react';
+export function Brand() { return <div className="brand"><span className="brand-mark"><ChartNoAxesColumnIncreasing size={22} strokeWidth={2.8} /></span><span>VERBA<span className="text-primary">.</span></span></div>; }
